@@ -1,0 +1,23 @@
+_repo: The-Geology-of-Button-Bay-State-Park_61230
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dodge, Harry W.
+    gutenberg_agent_id: '51107'
+    url: http://www.gutenberg.org/2009/agents/51107
+description: ''
+gutenberg_issued: '2020-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61230'
+  lccn: '62064308'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Geology -- Vermont -- Button Bay State Park'
+- !lcc 'QE'
+- GITenberg
+title: The Geology of Button Bay State Park
+url: http://www.gutenberg.org/ebooks/61230
